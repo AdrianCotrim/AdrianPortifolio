@@ -1,0 +1,15 @@
+.icone{
+    background-image: url('/assets/img/icone.png');
+    background-size: 300px 300px;
+    border-radius: 50%;
+    display: inline-block;
+    height: 300px;
+    position: relative;
+    top: 125px;
+    transition: 0.5s;
+    width: 300px;
+}
+
+.icone:hover{
+    background-image: url('/assets/img/icone2.png');
+}

@@ -1,0 +1,16 @@
+h1, main{
+    font-family: Bahnschrift SemiBold;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.bio{
+    padding: 10px 0;
+    text-align: center;
+}
+main{
+    font-size: 20px;
+    margin-top: 150px;
+}

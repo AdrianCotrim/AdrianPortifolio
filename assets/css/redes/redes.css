@@ -1,0 +1,54 @@
+.redes{
+    text-align: center;
+}
+.redes li{
+    vertical-align: top;
+    padding: 50px 75px;
+    display: inline-block;
+}
+
+.rede__imagem{
+    width: 65px;
+    height: 50px;
+}
+
+.rede__texto{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.redes p{
+    text-align: left;
+}
+
+.youtube-link{
+    color: black;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.twitter-link{
+    color: black;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.email-link{
+    color: black;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.youtube-link:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.twitter-link:hover{
+    color: turquoise;
+    text-decoration: underline;
+}
+
+.email-link:hover{
+    color: lightcoral;
+}
